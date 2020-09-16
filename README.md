@@ -1,5 +1,5 @@
 
-#  Quizzler
+#  Choose your adventure!
 
 Choose your own adventure game with multiple choice answers.
 
